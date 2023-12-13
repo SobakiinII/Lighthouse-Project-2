@@ -2,7 +2,8 @@
 
 ## Project/Goals
 (fill in your description and goals here)
-
+The goal of this project is to accomplish statistical modeling through the use of the Python programming language.
+This will involve querying APIs, and build regression models.
 ## Process
 ### Step 1
 The first step was simple in theory, use the CityBike API to get the bike-share points for a given town.
